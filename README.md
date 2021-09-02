@@ -1,4 +1,4 @@
-# 一键自动生成以太坊，BSC 区块链地址软件a
+# 一键自动生成以太坊，BSC 区块链地址软件c
 
    Create addresses, public keys, and private keys of the Ethereum Binance Smart Chain in batches 
 
